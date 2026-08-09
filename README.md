@@ -1,5 +1,5 @@
 # 💫 About Me:
-> LOADING PROFILE...<br>PLAYER: Himeriri<br>CLASS: Developer<br>LEVEL: 01<br>INTERESTS: Coding • Games • Graphic Design • Manga • Anime • Literature <br>STATUS: Online
+> LOADING PROFILE...<br>PLAYER: Himeriri<br>CLASS: Developer<br>LEVEL: 15<br>INTERESTS: Coding • Games • Graphic Design • Manga • Anime • Literature <br>STATUS: Online
 
 
 # 💻 Tech Stack:
