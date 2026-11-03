@@ -1,3 +1,9 @@
+<div align="center">"The universe may remain indifferent, but I will never stop creating."
+
+— Inspired by Albert Camus
+
+</div>---
+
 01 / ABOUT ME
 
 <div align="center"><img src="assets/anime-coding.gif" width="280" alt="Anime coding aesthetic"/>Hello! I'm Himeriri!
@@ -15,6 +21,7 @@ Outside of programming, I enjoy digital art, graphic design, creative writing, c
 I'm always looking for opportunities to learn something new, challenge myself, and turn ideas into something meaningful. This GitHub profile is where I document my learning journey and share a little about my interests along the way.
 
 </div>
+
 02 / LANGUAGES & TECHNOLOGIES
 
 <div align="center">Programming Languages
@@ -34,6 +41,7 @@ Tools & Game Development
 <img src="https://skillicons.dev/icons?i=vscode,git,github,godot&theme=dark" /><p>
 Tools and technologies I use to write code, manage repositories, experiment with projects, and explore game development.
 </p></div>
+
 03 / CURRENTLY LEARNING
 
 <div align="center"><img src="assets/anime-study.gif" width="280" alt="Anime studying GIF"/><p><i>"A little progress every day adds up to big results."</i></p></div>Programming Fundamentals
@@ -55,6 +63,7 @@ Experimenting with C# Windows Forms and graphical user interfaces. I'm learning 
 Game Development
 
 Exploring the Godot game engine and GDScript. I'm currently learning about scenes, nodes, scripts, game logic, and how different components work together to create interactive experiences.
+
 04 / INTERESTS & HOBBIES
 
 <div align="center"><img src="assets/anime-aesthetic.gif" width="280" alt="Anime aesthetic GIF"/>Creative Arts
