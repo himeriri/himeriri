@@ -1,4 +1,8 @@
-<div align="center">"The universe may remain indifferent, but I will never stop creating."
+<div align="center">Himeriri
+
+Aspiring Computer Scientist · Programmer · Game Developer
+
+"The universe may remain indifferent, but I will never stop creating."
 
 — Inspired by Albert Camus
 
@@ -6,9 +10,7 @@
 
 01 / ABOUT ME
 
-<div align="center"><img src="assets/anime-coding.gif" width="280" alt="Anime coding aesthetic"/>Hello! I'm Himeriri!
-
-Aspiring Computer Scientist · Game Developer · Creative Enthusiast
+<div align="center"><img src="assets/anime-coding.gif" width="280" alt="Anime coding aesthetic"/> 
 
 I'm an aspiring Computer Scientist with a growing interest in programming, software development, and game development.
 
