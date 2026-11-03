@@ -6,12 +6,12 @@ Aspiring Computer Scientist · Programmer · Game Developer
 
 — Inspired by Albert Camus
 
-<img src="assets/giphy (1).gif" width="280" alt="Anime GIF"/></div>---
+<img src="./giphy%20%281%29.gif" width="280" alt="Anime GIF"/></div>---
 
 01 / ABOUT ME
 
 <div align="center">
-<img src="assets/giphy (4).gif" width="280" alt="Anime coding aesthetic"/>I'm an aspiring Computer Scientist with a growing interest in programming, software development, and game development.
+<img src="./giphy%20%284%29.gif" width="280" alt="Anime coding aesthetic"/>I'm an aspiring Computer Scientist with a growing interest in programming, software development, and game development.
 
 I'm currently a student exploring different areas of technology, learning programming languages, and improving my skills through academic activities and personal experimentation.
 
@@ -45,7 +45,7 @@ Tools & Game Development
 
 03 / CURRENTLY LEARNING
 
-<div align="center"><img src="giphy (2).gif" width="280" alt="Anime studying GIF"/>"A little progress every day adds up to big results."
+<div align="center"><img src="./giphy%20%282%29.gif" width="280" alt="Anime studying GIF"/>"A little progress every day adds up to big results."
 
 </div>Programming Fundamentals
 
@@ -71,9 +71,7 @@ Exploring the Godot game engine and GDScript. I'm currently learning about scene
 
 04 / INTERESTS & HOBBIES
 
-<div align="center">
-<img src="assets/giphy (3).gif" width="280" alt="Anime aesthetic GIF"/>
-</div>Creative Arts
+<div align="center"><img src="./giphy%20%283%29.gif" width="280" alt="Anime aesthetic GIF"/></div>Creative Arts
 
 I'm interested in digital art, graphic design, character design, and creative writing. I enjoy experimenting with visual styles, developing original characters, and creating stories through different forms of media.
 
