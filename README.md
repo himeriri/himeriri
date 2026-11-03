@@ -40,7 +40,7 @@ Tools & Game Development
 
 03 / CURRENTLY LEARNING
 
-<div align="center"><img src="./giphy%20%282%29.gif" width="280" alt="Anime studying GIF"/>"A little progress every day adds up to big results."
+<div align="center"><img src="./giphy%20%282%29.gif" width="280" alt="Anime studying GIF"/><br/>"A little progress every day adds up to big results."
 
 </div>Programming Fundamentals
 
