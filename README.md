@@ -10,7 +10,9 @@ Aspiring Computer Scientist · Programmer · Game Developer
 
 01 / ABOUT ME
 
-<div align="center"><img src="./giphy%20%284%29.gif" width="280" alt="Anime coding aesthetic"/></div>I'm an aspiring Computer Scientist with a growing interest in programming, software development, and game development.
+<div align="center">
+<img src="./giphy%20%284%29.gif" width="280" alt="Anime coding aesthetic"/>
+</div>I'm an aspiring Computer Scientist with a growing interest in programming, software development, and game development.
 
 I'm currently a student exploring different areas of technology, learning programming languages, and improving my skills through academic activities and personal experimentation.
 
@@ -26,21 +28,15 @@ I'm always looking for opportunities to learn something new, challenge myself, a
 
 <div align="center">Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cs&theme=dark"/>Languages I'm learning and practicing through school activities, programming exercises, and personal experimentation.
-
----
+<img src="https://skillicons.dev/icons?i=python,java,cs&theme=dark" /><p>Languages I'm learning and practicing through school activities, programming exercises, and personal experimentation.</p>---
 
 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>Exploring web development, from structuring web pages and designing interfaces to creating interactive website features.
-
----
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /><p>Exploring web development, from structuring web pages and designing interfaces to creating interactive website features.</p>---
 
 Tools & Game Development
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,godot&theme=dark"/>Tools and technologies I use to write code, manage repositories, experiment with projects, and explore game development.
-
-</div>---
+<img src="https://skillicons.dev/icons?i=vscode,git,github,godot&theme=dark" /><p>Tools and technologies I use to write code, manage repositories, experiment with projects, and explore game development.</p></div>---
 
 03 / CURRENTLY LEARNING
 
@@ -89,3 +85,11 @@ Some of my favorite series include Witch Hat Atelier, Reverse: 1999, The Witch f
 Other Interests
 
 Outside of coding and art, I enjoy learning about binary, paradoxes, symbolism, and other interesting concepts. I also like Gundam model kits and exploring game development as a creative hobby.
+
+---
+
+<div align="center">"Keep learning. Keep creating. Keep exploring."
+
+Himeriri © 2026
+
+</div>
