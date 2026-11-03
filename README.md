@@ -1,18 +1,16 @@
-<div align="center">#Himeriri
+<div align="center">Himeriri
 
 Aspiring Computer Scientist · Programmer · Game Developer
 
-"The universe may remain indifferent, but I will never stop creating."
+“The universe may remain indifferent, but I will never stop creating.”
 
 — Inspired by Albert Camus
 
 </div>---
 
-##01 / ABOUT ME
+01 / ABOUT ME
 
-<div align="center"><img src="assets/anime-coding.gif" width="280" alt="Anime coding aesthetic"/> 
-
-I'm an aspiring Computer Scientist with a growing interest in programming, software development, and game development.
+<div align="center"><img src="assets/agott.gif" width="280" alt="Anime coding aesthetic"/></div><div align="center">I'm an aspiring Computer Scientist with a growing interest in programming, software development, and game development.
 
 I'm currently a student exploring different areas of technology, learning programming languages, and improving my skills through academic activities and personal experimentation.
 
@@ -22,9 +20,9 @@ Outside of programming, I enjoy digital art, graphic design, creative writing, c
 
 I'm always looking for opportunities to learn something new, challenge myself, and turn ideas into something meaningful. This GitHub profile is where I document my learning journey and share a little about my interests along the way.
 
-</div>
+</div>---
 
-##02 / LANGUAGES & TECHNOLOGIES
+02 / LANGUAGES & TECHNOLOGIES
 
 <div align="center">Programming Languages
 
@@ -42,11 +40,13 @@ Tools & Game Development
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,godot&theme=dark" /><p>
 Tools and technologies I use to write code, manage repositories, experiment with projects, and explore game development.
-</p></div>
+</p></div>---
 
-##03 / CURRENTLY LEARNING
+03 / CURRENTLY LEARNING
 
-<div align="center"><img src="assets/anime-study.gif" width="280" alt="Anime studying GIF"/><p><i>"A little progress every day adds up to big results."</i></p></div>Programming Fundamentals
+<div align="center"><img src="kaguyachiyoroha.gif" width="280" alt="Anime studying GIF"/>“A little progress every day adds up to big results.”
+
+Programming Fundamentals
 
 Currently strengthening my understanding of programming fundamentals through Python, Java, and C#. I'm practicing variables, data types, conditional statements, loops, functions, user input, and basic problem-solving.
 
@@ -66,9 +66,11 @@ Game Development
 
 Exploring the Godot game engine and GDScript. I'm currently learning about scenes, nodes, scripts, game logic, and how different components work together to create interactive experiences.
 
-##04 / INTERESTS & HOBBIES
+</div>---
 
-<div align="center"><img src="assets/anime-aesthetic.gif" width="280" alt="Anime aesthetic GIF"/>Creative Arts
+04 / INTERESTS & HOBBIES
+
+<div align="center"><img src="assets/kimishinu.gif" width="280" alt="Anime aesthetic GIF"/>Creative Arts
 
 I'm interested in digital art, graphic design, character design, and creative writing. I enjoy experimenting with visual styles, developing original characters, and creating stories through different forms of media.
 
