@@ -2,7 +2,7 @@
 
 Aspiring Computer Scientist · Programmer · Game Developer
 
-“The universe may remain indifferent, but I will never stop creating.”
+"The universe may remain indifferent, but I will never stop creating."
 
 — Inspired by Albert Camus
 
@@ -10,8 +10,7 @@ Aspiring Computer Scientist · Programmer · Game Developer
 
 01 / ABOUT ME
 
-<div align="center">
-<img src="./giphy%20%284%29.gif" width="280" alt="Anime coding aesthetic"/>I'm an aspiring Computer Scientist with a growing interest in programming, software development, and game development.
+<div align="center"><img src="./giphy%20%284%29.gif" width="280" alt="Anime coding aesthetic"/></div>I'm an aspiring Computer Scientist with a growing interest in programming, software development, and game development.
 
 I'm currently a student exploring different areas of technology, learning programming languages, and improving my skills through academic activities and personal experimentation.
 
@@ -21,25 +20,25 @@ Outside of programming, I enjoy digital art, graphic design, creative writing, c
 
 I'm always looking for opportunities to learn something new, challenge myself, and turn ideas into something meaningful. This GitHub profile is where I document my learning journey and share a little about my interests along the way.
 
-</div>---
+---
 
 02 / LANGUAGES & TECHNOLOGIES
 
 <div align="center">Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cs&theme=dark" />Languages I'm learning and practicing through school activities, programming exercises, and personal experimentation.
+<img src="https://skillicons.dev/icons?i=python,java,cs&theme=dark"/>Languages I'm learning and practicing through school activities, programming exercises, and personal experimentation.
 
 ---
 
 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />Exploring web development, from structuring web pages and designing interfaces to creating interactive website features.
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>Exploring web development, from structuring web pages and designing interfaces to creating interactive website features.
 
 ---
 
 Tools & Game Development
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,godot&theme=dark" />Tools and technologies I use to write code, manage repositories, experiment with projects, and explore game development.
+<img src="https://skillicons.dev/icons?i=vscode,git,github,godot&theme=dark"/>Tools and technologies I use to write code, manage repositories, experiment with projects, and explore game development.
 
 </div>---
 
