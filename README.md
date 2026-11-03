@@ -1,4 +1,4 @@
-<div align="center">Himeriri
+<div align="center">#Himeriri
 
 Aspiring Computer Scientist · Programmer · Game Developer
 
@@ -8,7 +8,7 @@ Aspiring Computer Scientist · Programmer · Game Developer
 
 </div>---
 
-01 / ABOUT ME
+##01 / ABOUT ME
 
 <div align="center"><img src="assets/anime-coding.gif" width="280" alt="Anime coding aesthetic"/> 
 
@@ -24,7 +24,7 @@ I'm always looking for opportunities to learn something new, challenge myself, a
 
 </div>
 
-02 / LANGUAGES & TECHNOLOGIES
+##02 / LANGUAGES & TECHNOLOGIES
 
 <div align="center">Programming Languages
 
@@ -44,7 +44,7 @@ Tools & Game Development
 Tools and technologies I use to write code, manage repositories, experiment with projects, and explore game development.
 </p></div>
 
-03 / CURRENTLY LEARNING
+##03 / CURRENTLY LEARNING
 
 <div align="center"><img src="assets/anime-study.gif" width="280" alt="Anime studying GIF"/><p><i>"A little progress every day adds up to big results."</i></p></div>Programming Fundamentals
 
@@ -66,7 +66,7 @@ Game Development
 
 Exploring the Godot game engine and GDScript. I'm currently learning about scenes, nodes, scripts, game logic, and how different components work together to create interactive experiences.
 
-04 / INTERESTS & HOBBIES
+##04 / INTERESTS & HOBBIES
 
 <div align="center"><img src="assets/anime-aesthetic.gif" width="280" alt="Anime aesthetic GIF"/>Creative Arts
 
