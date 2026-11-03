@@ -10,7 +10,7 @@ Aspiring Computer Scientist · Programmer · Game Developer
 
 01 / ABOUT ME
 
-<div align="center"><img src="assets/agott.gif" width="280" alt="Anime coding aesthetic"/></div><div align="center">I'm an aspiring Computer Scientist with a growing interest in programming, software development, and game development.
+<div align="center"><img src="assets/giphy (4).gif" width="280" alt="Anime coding aesthetic"/></div><div align="center">I'm an aspiring Computer Scientist with a growing interest in programming, software development, and game development.
 
 I'm currently a student exploring different areas of technology, learning programming languages, and improving my skills through academic activities and personal experimentation.
 
@@ -44,7 +44,7 @@ Tools and technologies I use to write code, manage repositories, experiment with
 
 03 / CURRENTLY LEARNING
 
-<div align="center"><img src="kaguyachiyoroha.gif" width="280" alt="Anime studying GIF"/>“A little progress every day adds up to big results.”
+<div align="center"><img src="giphy (2).gif" width="280" alt="Anime studying GIF"/>“A little progress every day adds up to big results.”
 
 Programming Fundamentals
 
@@ -70,7 +70,7 @@ Exploring the Godot game engine and GDScript. I'm currently learning about scene
 
 04 / INTERESTS & HOBBIES
 
-<div align="center"><img src="assets/kimishinu.gif" width="280" alt="Anime aesthetic GIF"/>Creative Arts
+<div align="center"><img src="assets/giphy (3).gif" width="280" alt="Anime aesthetic GIF"/>Creative Arts
 
 I'm interested in digital art, graphic design, character design, and creative writing. I enjoy experimenting with visual styles, developing original characters, and creating stories through different forms of media.
 
